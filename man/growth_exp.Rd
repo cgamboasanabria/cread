@@ -27,7 +27,7 @@ An object of class character with the date for the first population.
 An object of class character with the date for the second population.
 }
   \item{time_interval}{
-A string with the time interval to calculate \\Delta_t.
+A string with the time interval to calculate Delta_t.
 }
   \item{date}{
 logical. If TRUE, then estimates the moment t when Nt reaches a specific value.
