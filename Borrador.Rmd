@@ -59,6 +59,6 @@ growth_exp(N0=2839177, Nt=3405813, t0="2000-05-14", t="2010-05-16", time_interva
 growth_exp(N0=2839177, Nt=5000000, r=0.0182, t0="2000-05-14", date=TRUE)
 ```
 ```{r}
-devtools::install_github("cgamboasanabria/dCUR", auth_token = "fd36250582727514bf0096aa4035cf81ab64227b", force = TRUE)
+devtools::install_github("cgamboasanabria/cread")
 ```
 
